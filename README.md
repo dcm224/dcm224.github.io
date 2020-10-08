@@ -3,3 +3,4 @@ Hey! My name is David Mann, I'm a freshman at Lehigh University and this is my w
 ![chart](https://github.com/dcm224/dcm224.github.io/blob/master/Screen%20Shot%202020-09-27%20at%207.32.27%20PM.png?raw=true)
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1zelzJkkrdF6if0bvsp876kfpvDut0R2Vo5NQYcbNzOo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1pnZlrGQtb14P5cUR2xhc8duR-nBiaPajp_cg3tjpzFg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+![chart](Undergraduate_population's_at_Lehigh_Percentage_chartbuilder.png)
