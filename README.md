@@ -6,4 +6,4 @@ Hey! My name is David Mann, I'm a freshman at Lehigh University and this is my w
 ![chart](https://github.com/dcm224/dcm224.github.io/blob/master/Undergraduate_population's_at_Lehigh_Percentage_chartbuilder.png?raw=true)
 ![chart](https://github.com/dcm224/dcm224.github.io/blob/master/Point,_Rebound,_and_Assist_averages_from_four_players_in_the_NBA_finals_Points_per_Game_Assists_per_Game_Rebounds_per_Game_chartbuilder.png?raw=true)
 ![chart] (https://github.com/dcm224/dcm224.github.io/blob/master/Liberal_Arts_and_Sciences_School_population_1,658_chartbuilder.png?raw=true)
-![chart] (<iframe src="https://www.google.com/maps/d/embed?mid=1X9h8F2zzWun97HfpS_7kk8satYMb1FK5" width="640" height="480"></iframe>)
+<iframe src="https://www.google.com/maps/d/embed?mid=1X9h8F2zzWun97HfpS_7kk8satYMb1FK5" width="640" height="480"></iframe>
