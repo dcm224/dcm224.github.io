@@ -1,5 +1,7 @@
 Hey! My name is David Mann, I'm a freshman at Lehigh University and this is my web page. I will be posting data and articles I write on this page throughout the semester. I'm from Westchester, New York and I love basketball, football and writing about current events such as politics, COVID-19, and Artificial Intelligence. I think Data Journalism will be one of the largest growing industries along with Artificial Intelligence in the near future and I find both fields to be fascinating with a surprising amount of links between the two.
 
+![chart](https://github.com/dcm224/dcm224.github.io/blob/master/Screen%20Shot%202020-11-29%20at%2011.58.57%20AM.png?raw=true) 
+
 ## NBA Statistics and Projects:
 
 ![chart](https://github.com/dcm224/dcm224.github.io/blob/master/Screen%20Shot%202020-09-27%20at%207.32.27%20PM.png?raw=true)
