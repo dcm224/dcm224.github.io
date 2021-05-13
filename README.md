@@ -33,3 +33,4 @@ On the block that you and your parents have lived on for years
 Wipe away your tears
 
 That’s nothing but music to their ears
+![chart]0490a14449caa1cfd905d1052368661cdc-10-harlem-corner-lede-1.rsquare.w700.jpg![image](https://user-images.githubusercontent.com/71415232/118162689-09543000-b3ef-11eb-83c2-775d75689b90.png)
