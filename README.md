@@ -35,3 +35,7 @@ Wipe away your tears
 That’s nothing but music to their ears
 
 ![chart](https://user-images.githubusercontent.com/71415232/118162689-09543000-b3ef-11eb-83c2-775d75689b90.png)
+
+## Playlist
+This playlist is a collection of rap songs that I enjoy and believe to be exemplary of rap music as an expression of the oppressed. It highlights the beauty of this art within the ugly realities of racism in America.
+https://open.spotify.com/playlist/0p7061TJlXxa31jxtemSSw?si=PtSex0b4SOyqvXSWsMlU6g
