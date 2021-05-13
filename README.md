@@ -1,1 +1,1 @@
-
+My name is David Mann and this is my final project for my English 2 class at Lehigh University. For this project I have decided to focus on systemic oppression and the modern Hip Hop industry in relation to black Americans.
