@@ -8,7 +8,7 @@ It said people are being kicked from their homes for convenience
 
 But it’s not a secret  
 
-The dollar sign defines the struggle
+The dollar sign doesn't just define the struggle
 
 Being white is like being born inside a bubble
 
